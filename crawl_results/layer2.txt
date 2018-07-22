@@ -1,0 +1,30 @@
+International Standard Book Number:
+	https://en.wikipedia.org/wiki/Library_of_Congress_Control_Number
+	https://en.wikipedia.org/wiki/Book_design
+	https://en.wikipedia.org/wiki/Typesetting
+	https://en.wikipedia.org/wiki/Common_Language_Infrastructure
+	https://en.wikipedia.org/wiki/ANSI_escape_code
+Historical linguistics:
+	https://en.wikipedia.org/wiki/Participant_observation
+	https://en.wikipedia.org/wiki/Etymological_dictionary
+	https://en.wikipedia.org/wiki/Complementary_distribution
+	https://en.wikipedia.org/wiki/Structural_functionalism
+	https://en.wikipedia.org/wiki/Anthropology_of_art
+Lisp:
+	https://en.wikipedia.org/wiki/Tongue_thrust
+	https://en.wikipedia.org/wiki/Motor_planning
+	https://en.wikipedia.org/wiki/Developmental_coordination_disorder
+	https://en.wikipedia.org/wiki/Specific_developmental_disorder
+	https://en.wikipedia.org/wiki/Speech_sound_disorder
+Romanian phonology:
+	https://en.wikipedia.org/wiki/Nepali_phonology
+	https://en.wikipedia.org/wiki/Navajo_phonology
+	https://en.wikipedia.org/wiki/Question
+	https://en.wikipedia.org/wiki/Uyghur_phonology
+	https://en.wikipedia.org/wiki/Close_back_rounded_vowel
+Languages of Africa:
+	https://en.wikipedia.org/wiki/Confederation_of_African_Football
+	https://en.wikipedia.org/wiki/Languages_of_Zimbabwe
+	https://en.wikipedia.org/wiki/Hollandic_dialect
+	https://en.wikipedia.org/wiki/Kongo_language
+	https://en.wikipedia.org/wiki/Tone_contour

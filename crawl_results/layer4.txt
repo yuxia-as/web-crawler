@@ -1,0 +1,750 @@
+Library of Congress Subject Headings:
+	https://en.wikipedia.org/wiki/OPAC
+	https://en.wikipedia.org/wiki/Virtual_International_Authority_File
+	https://en.wikipedia.org/wiki/Subject_heading
+	https://en.wikipedia.org/wiki/Tim_Spalding
+	https://en.wikipedia.org/wiki/Sanford_Berman
+Integrated Authority File:
+	https://en.wikipedia.org/wiki/Integrated_Authority_File
+	https://en.wikipedia.org/wiki/LIBRIS
+	https://en.wikipedia.org/wiki/Authority_file
+	https://en.wikipedia.org/wiki/Virtual_International_Authority_File
+	https://en.wikipedia.org/wiki/Library
+Authority control:
+	https://en.wikipedia.org/wiki/Library_of_Congress
+	https://en.wikipedia.org/wiki/Automated_reasoning
+	https://en.wikipedia.org/wiki/Cataloger
+	https://en.wikipedia.org/wiki/Inference_engine
+	https://en.wikipedia.org/wiki/Authority_control
+Main Page:
+	https://en.wikipedia.org/wiki/Circumnavigation
+	https://en.wikipedia.org/wiki/Association_football
+	https://en.wikipedia.org/wiki/Scopes_Trial
+	https://en.wikipedia.org/wiki/Mossad
+	https://en.wikipedia.org/wiki/Free_content
+Authority control:
+	https://en.wikipedia.org/wiki/Siri
+	https://en.wikipedia.org/wiki/Integrated_Authority_File
+	https://en.wikipedia.org/wiki/MARC_standards
+	https://en.wikipedia.org/wiki/Collocation
+	https://en.wikipedia.org/wiki/Registration_authority
+Design for testing:
+	https://en.wikipedia.org/wiki/Functional_verification
+	https://en.wikipedia.org/wiki/Observability
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/State_space
+	https://en.wikipedia.org/wiki/State_space
+Design methods:
+	https://en.wikipedia.org/wiki/Sustainable_landscape_architecture
+	https://en.wikipedia.org/wiki/Fashion_design_copyright
+	https://en.wikipedia.org/wiki/Graphex
+	https://en.wikipedia.org/wiki/Hardware_interface_design
+	https://en.wikipedia.org/wiki/Design_marker
+Preface:
+	https://en.wikipedia.org/wiki/Edition_notice
+	https://en.wikipedia.org/wiki/Postface
+	https://en.wikipedia.org/wiki/Anthropodermic_bibliopegy
+	https://en.wikipedia.org/wiki/Thumb_index
+	https://en.wikipedia.org/wiki/Thumb_index
+Contextual design:
+	https://en.wikipedia.org/wiki/Aesthetics
+	https://en.wikipedia.org/wiki/Information_design
+	https://en.wikipedia.org/wiki/Electrical_system_design
+	https://en.wikipedia.org/wiki/Scenic_design
+	https://en.wikipedia.org/wiki/Electronic_design_automation
+Mockup:
+	https://en.wikipedia.org/wiki/Integrated_topside_design
+	https://en.wikipedia.org/wiki/Design_language
+	https://en.wikipedia.org/wiki/Social_design
+	https://en.wikipedia.org/wiki/Creative_industries
+	https://en.wikipedia.org/wiki/Print_design
+GNU:
+	https://en.wikipedia.org/wiki/SunOS
+	https://en.wikipedia.org/wiki/Operating_system
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Operating_system_advocacy
+	https://en.wikipedia.org/wiki/GNU_General_Public_License
+Editing:
+	https://en.wikipedia.org/wiki/Columnist
+	https://en.wikipedia.org/wiki/Copy_editing
+	https://en.wikipedia.org/wiki/News_presenter
+	https://en.wikipedia.org/wiki/Books_in_the_United_Kingdom
+	https://en.wikipedia.org/wiki/Book_censorship
+Macintosh:
+	https://en.wikipedia.org/wiki/Mac_OS_X_Public_Beta
+	https://en.wikipedia.org/wiki/Apple_Silentype
+	https://en.wikipedia.org/wiki/John_Browett
+	https://en.wikipedia.org/wiki/MkLinux
+	https://en.wikipedia.org/wiki/TextEdit
+National Diet Library:
+	https://en.wikipedia.org/wiki/Occupation_of_Japan
+	https://en.wikipedia.org/wiki/Edo_period
+	https://en.wikipedia.org/wiki/National_Library_of_Cambodia
+	https://en.wikipedia.org/wiki/National_Diet_Library
+	https://en.wikipedia.org/wiki/Interlibrary_loan
+Orthography:
+	https://en.wikipedia.org/wiki/Writing_system
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Comparative_linguistics
+	https://en.wikipedia.org/wiki/Hyphen
+	https://en.wikipedia.org/wiki/Prescription_and_description
+Q Sharp:
+	https://en.wikipedia.org/wiki/Common_Intermediate_Language
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Topological_quantum_computer
+	https://en.wikipedia.org/wiki/BQP
+	https://en.wikipedia.org/wiki/Quantum_key_distribution
+ECMAScript:
+	https://en.wikipedia.org/wiki/Floppy_disk
+	https://en.wikipedia.org/wiki/Near_field_communication
+	https://en.wikipedia.org/wiki/ECMAScript
+	https://en.wikipedia.org/wiki/Functional_programming
+	https://en.wikipedia.org/wiki/JSLint
+Programming language:
+	https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+	https://en.wikipedia.org/wiki/Literate_programming
+	https://en.wikipedia.org/wiki/History_of_computing_hardware
+	https://en.wikipedia.org/wiki/Lists_of_programming_languages
+	https://en.wikipedia.org/wiki/John_Backus
+Comparison of C Sharp and Java:
+	https://en.wikipedia.org/wiki/Square_root
+	https://en.wikipedia.org/wiki/List_of_CLI_languages
+	https://en.wikipedia.org/wiki/SQL
+	https://en.wikipedia.org/wiki/Compiler
+	https://en.wikipedia.org/wiki/Blackdown_Java
+List of CLI languages:
+	https://en.wikipedia.org/wiki/Phalanger
+	https://en.wikipedia.org/wiki/Synergy_DBL
+	https://en.wikipedia.org/wiki/List_of_CLI_languages
+	https://en.wikipedia.org/wiki/JScript
+	https://en.wikipedia.org/wiki/Imperative_programming
+Reverse video:
+	https://en.wikipedia.org/wiki/Reverse_video
+	https://en.wikipedia.org/wiki/Ocular_larva_migrans
+	https://en.wikipedia.org/wiki/Eyestrain
+	https://en.wikipedia.org/wiki/Reverse_video
+	https://en.wikipedia.org/wiki/Computer_graphics
+Mac OS Turkish encoding:
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Mac_Icelandic_encoding
+	https://en.wikipedia.org/wiki/VSCII
+	https://en.wikipedia.org/wiki/Wang_International_Standard_Code_for_Information_Interchange
+	https://en.wikipedia.org/wiki/Shift_JIS
+Holographic Versatile Disc:
+	https://en.wikipedia.org/wiki/Aluminium
+	https://en.wikipedia.org/wiki/Video_Cassette_Recording
+	https://en.wikipedia.org/wiki/Common_Language_Infrastructure
+	https://en.wikipedia.org/wiki/Ultra_High_Definition_Television
+	https://en.wikipedia.org/wiki/Holographic
+SDMX:
+	https://en.wikipedia.org/wiki/International_Standard_Recording_Code
+	https://en.wikipedia.org/wiki/Magnetic_ink_character_recognition
+	https://en.wikipedia.org/wiki/Film_speed
+	https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface
+	https://en.wikipedia.org/wiki/Eurostat
+Ecma International:
+	https://en.wikipedia.org/wiki/Brendan_Eich
+	https://en.wikipedia.org/wiki/Digital_Linear_Tape
+	https://en.wikipedia.org/wiki/Consensus
+	https://en.wikipedia.org/wiki/International_Organization_for_Standardization
+	https://en.wikipedia.org/wiki/Sun_Microsystems
+Feminist anthropology:
+	https://en.wikipedia.org/wiki/Feminist_sexology
+	https://en.wikipedia.org/wiki/Biocultural_anthropology
+	https://en.wikipedia.org/wiki/Matrilineality
+	https://en.wikipedia.org/wiki/List_of_ecofeminist_authors
+	https://en.wikipedia.org/wiki/Feminism_in_Italy
+Aviation archaeology:
+	https://en.wikipedia.org/wiki/United_Kingdom
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Remote_sensing
+	https://en.wikipedia.org/wiki/Colorado_Aviation_Historical_Society
+	https://en.wikipedia.org/wiki/Lowry_Air_Force_Base
+Ethnocentrism:
+	https://en.wikipedia.org/wiki/Cultural_bias
+	https://en.wikipedia.org/wiki/Monoethnicity
+	https://en.wikipedia.org/wiki/Cultural_identity
+	https://en.wikipedia.org/wiki/Ethnopoetics
+	https://en.wikipedia.org/wiki/Historical_particularism
+Ethnology:
+	https://en.wikipedia.org/wiki/Folk_religion
+	https://en.wikipedia.org/wiki/Ethnocentrism
+	https://en.wikipedia.org/wiki/Society
+	https://en.wikipedia.org/wiki/Ingroups_and_outgroups
+	https://en.wikipedia.org/wiki/Ethnomuseology
+Participant observation:
+	https://en.wikipedia.org/wiki/Cultural_anthropology
+	https://en.wikipedia.org/wiki/Forensic_anthropology
+	https://en.wikipedia.org/wiki/Boasian_anthropology
+	https://en.wikipedia.org/wiki/Kinship
+	https://en.wikipedia.org/wiki/Public_anthropology
+Language change:
+	https://en.wikipedia.org/wiki/Semantic_change
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Principle_of_least_effort
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+Lexikon der indogermanischen Verben:
+	https://en.wikipedia.org/wiki/Lexikon_der_indogermanischen_Verben
+	https://en.wikipedia.org/wiki/Sigma
+	https://en.wikipedia.org/wiki/Dewey_Decimal_Classification
+	https://en.wikipedia.org/wiki/Helmut_Rix
+	https://en.wikipedia.org/wiki/Library_of_Congress_Classification
+Heidelberg:
+	https://en.wikipedia.org/wiki/Twin_towns_and_sister_cities
+	https://en.wikipedia.org/wiki/Hessen
+	https://en.wikipedia.org/wiki/Celts
+	https://en.wikipedia.org/wiki/The_Awful_German_Language
+	https://en.wikipedia.org/wiki/Lutheran
+Old Prussian language:
+	https://en.wikipedia.org/wiki/Kaliningrad_oblast
+	https://en.wikipedia.org/wiki/France
+	https://en.wikipedia.org/wiki/Lithuania
+	https://en.wikipedia.org/wiki/Baltic_languages
+	https://en.wikipedia.org/wiki/Ostrorog
+English language:
+	https://en.wikipedia.org/wiki/Language_change
+	https://en.wikipedia.org/wiki/West_Germanic_languages
+	https://en.wikipedia.org/wiki/West_Low_Franconian
+	https://en.wikipedia.org/wiki/Cheshire_dialect
+	https://en.wikipedia.org/wiki/United_States
+Main Page:
+	https://en.wikipedia.org/wiki/Holy_Roman_Emperor
+	https://en.wikipedia.org/wiki/Encyclopedia
+	https://en.wikipedia.org/wiki/Adrian_Cronauer
+	https://en.wikipedia.org/wiki/Mossad
+	https://en.wikipedia.org/wiki/Denis_Ten
+Phonology:
+	https://en.wikipedia.org/wiki/Bernese_German_phonology
+	https://en.wikipedia.org/wiki/Linguistic_prescription
+	https://en.wikipedia.org/wiki/Kurdish_phonology
+	https://en.wikipedia.org/wiki/Morpheme
+	https://en.wikipedia.org/wiki/Phonotactics
+Allophone:
+	https://en.wikipedia.org/wiki/Turkish_language
+	https://en.wikipedia.org/wiki/Allomorph
+	https://en.wikipedia.org/wiki/English_language
+	https://en.wikipedia.org/wiki/Allophonic_rule
+	https://en.wikipedia.org/wiki/Greek_language
+Phoneme:
+	https://en.wikipedia.org/wiki/Romanian_Language
+	https://en.wikipedia.org/wiki/Bantu_languages
+	https://en.wikipedia.org/wiki/OCLC
+	https://en.wikipedia.org/wiki/Allophony
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+Allophone:
+	https://en.wikipedia.org/wiki/Close_central_rounded_vowel
+	https://en.wikipedia.org/wiki/Consonant_voicing_and_devoicing
+	https://en.wikipedia.org/wiki/Phoneme
+	https://en.wikipedia.org/wiki/Sonorant
+	https://en.wikipedia.org/wiki/Turkish_language
+Ethnocentrism:
+	https://en.wikipedia.org/wiki/Ethnomuseology
+	https://en.wikipedia.org/wiki/Medical_anthropology
+	https://en.wikipedia.org/wiki/Linguistic_description
+	https://en.wikipedia.org/wiki/Cultural_diversity
+	https://en.wikipedia.org/wiki/Practice_theory
+List of sociological associations:
+	https://en.wikipedia.org/wiki/International_Institute_of_Sociology
+	https://en.wikipedia.org/wiki/Conflict_theories
+	https://en.wikipedia.org/wiki/Critical_theory
+	https://en.wikipedia.org/wiki/Southern_Sociological_Society
+	https://en.wikipedia.org/wiki/Association_for_Humanist_Sociology
+Social constructionism:
+	https://en.wikipedia.org/wiki/Rom_Harre
+	https://en.wikipedia.org/wiki/Theory_choice
+	https://en.wikipedia.org/wiki/Max_Stirner
+	https://en.wikipedia.org/wiki/Alan_Sokal
+	https://en.wikipedia.org/wiki/War
+Ethnomethodology:
+	https://en.wikipedia.org/wiki/Ethnography
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Gestaltism
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Timeline_of_sociology
+Anthony Giddens:
+	https://en.wikipedia.org/wiki/Norbert_Elias
+	https://en.wikipedia.org/wiki/Exogenous
+	https://en.wikipedia.org/wiki/Reith_Lectures
+	https://en.wikipedia.org/wiki/Sovereign_state
+	https://en.wikipedia.org/wiki/Jagiellonian_University
+Evolution:
+	https://en.wikipedia.org/wiki/Georges_Cuvier
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/International_Standard_Serial_Number
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/Sampling_error
+Ethnomusicology:
+	https://en.wikipedia.org/wiki/Music_of_the_Republic_of_Macedonia
+	https://en.wikipedia.org/wiki/Extended_play
+	https://en.wikipedia.org/wiki/Remix_album
+	https://en.wikipedia.org/wiki/Folklorists
+	https://en.wikipedia.org/wiki/Musical_syntax
+Ethnographic film:
+	https://en.wikipedia.org/wiki/Visual_arts_by_indigenous_peoples_of_the_Americas
+	https://en.wikipedia.org/wiki/Tim_Asch
+	https://en.wikipedia.org/wiki/Pierre_Bourdieu
+	https://en.wikipedia.org/wiki/Shinpa
+	https://en.wikipedia.org/wiki/List_of_science_fiction_horror_films
+Applied anthropology:
+	https://en.wikipedia.org/wiki/Boasian_anthropology
+	https://en.wikipedia.org/wiki/Heritage_commodification
+	https://en.wikipedia.org/wiki/Society
+	https://en.wikipedia.org/wiki/Historical_linguistics
+	https://en.wikipedia.org/wiki/Nutritional_anthropology
+Archaeology:
+	https://en.wikipedia.org/wiki/Kathleen_Kenyon
+	https://en.wikipedia.org/wiki/Economic_anthropology
+	https://en.wikipedia.org/wiki/Media_studies
+	https://en.wikipedia.org/wiki/Archaeological_context
+	https://en.wikipedia.org/wiki/Collections_maintenance
+Malocclusion:
+	https://en.wikipedia.org/wiki/Pacifier
+	https://en.wikipedia.org/wiki/Maximum_intercuspation
+	https://en.wikipedia.org/wiki/Juri_Kurol
+	https://en.wikipedia.org/wiki/John_Nutting_Farrar
+	https://en.wikipedia.org/wiki/Temporomandibular_joint_disorder
+Thumb sucking:
+	https://en.wikipedia.org/wiki/Piquant
+	https://en.wikipedia.org/wiki/Thumb_sucking
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Chimpanzees
+	https://en.wikipedia.org/wiki/Pacifier
+Allergy:
+	https://en.wikipedia.org/wiki/PubMed_Central
+	https://en.wikipedia.org/wiki/Digital_object_identifier
+	https://en.wikipedia.org/wiki/Reactive_arthritis
+	https://en.wikipedia.org/wiki/Homeopathic_treatment
+	https://en.wikipedia.org/wiki/Mucus
+Tonsil:
+	https://en.wikipedia.org/wiki/White_pulp
+	https://en.wikipedia.org/wiki/Viral_infection
+	https://en.wikipedia.org/wiki/Oropharynx
+	https://en.wikipedia.org/wiki/Adenoids
+	https://en.wikipedia.org/wiki/Lingual_tonsils
+Macroglossia:
+	https://en.wikipedia.org/wiki/Hemihyperplasia
+	https://en.wikipedia.org/wiki/Radiotherapy
+	https://en.wikipedia.org/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems
+	https://en.wikipedia.org/wiki/Bile_duct
+	https://en.wikipedia.org/wiki/Lingual_thyroid
+Main Page:
+	https://en.wikipedia.org/wiki/English_language
+	https://en.wikipedia.org/wiki/Lillehammer
+	https://en.wikipedia.org/wiki/Table_Rock_Lake
+	https://en.wikipedia.org/wiki/Hominini
+	https://en.wikipedia.org/wiki/Butler_Act
+Motor planning:
+	https://en.wikipedia.org/wiki/Digital_object_identifier
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Motor_planning
+	https://en.wikipedia.org/wiki/Motor_planning
+	https://en.wikipedia.org/wiki/Reaction_time
+Digital object identifier:
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/International_Securities_Identification_Number
+	https://en.wikipedia.org/wiki/Firefox
+	https://en.wikipedia.org/wiki/Cloud_Infrastructure_Management_Interface
+	https://en.wikipedia.org/wiki/International_Organization_for_Standardization
+PubMed:
+	https://en.wikipedia.org/wiki/International_Standard_Serial_Number
+	https://en.wikipedia.org/wiki/Telemedicine
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/PubMed_Central
+	https://en.wikipedia.org/wiki/Digital_object_identifier
+Main Page:
+	https://en.wikipedia.org/wiki/Claude_Monet
+	https://en.wikipedia.org/wiki/Holy_Roman_Emperor
+	https://en.wikipedia.org/wiki/Association_football
+	https://en.wikipedia.org/wiki/Illinois
+	https://en.wikipedia.org/wiki/Butler_Act
+Digital object identifier:
+	https://en.wikipedia.org/wiki/International_Standard_Music_Number
+	https://en.wikipedia.org/wiki/Romanization_of_Georgian
+	https://en.wikipedia.org/wiki/Unified_Modeling_Language
+	https://en.wikipedia.org/wiki/International_Bank_Account_Number
+	https://en.wikipedia.org/wiki/Romanization_of_Georgian
+PubMed Central:
+	https://en.wikipedia.org/wiki/PMID
+	https://en.wikipedia.org/wiki/PubMed_Central_Canada
+	https://en.wikipedia.org/wiki/Biomedical
+	https://en.wikipedia.org/wiki/Open_access
+	https://en.wikipedia.org/wiki/Main_Page
+PubMed:
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/National_Institutes_of_Health
+	https://en.wikipedia.org/wiki/Ovid_Technologies
+	https://en.wikipedia.org/wiki/Arrowsmith_System
+	https://en.wikipedia.org/wiki/PubMed_Central
+Communication disorder:
+	https://en.wikipedia.org/wiki/Speech_and_language_impairment
+	https://en.wikipedia.org/wiki/Spelling
+	https://en.wikipedia.org/wiki/Speech_sound_disorder
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Language_disorder
+Digital object identifier:
+	https://en.wikipedia.org/wiki/International_Standard_Atmosphere
+	https://en.wikipedia.org/wiki/Fiber_Distributed_Data_Interface
+	https://en.wikipedia.org/wiki/Bibcode
+	https://en.wikipedia.org/wiki/URL
+	https://en.wikipedia.org/wiki/Pinyin
+Diagnostic and Statistical Manual of Mental Disorders:
+	https://en.wikipedia.org/wiki/Digital_object_identifier
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/Chinese_Classification_and_Diagnostic_Criteria_of_Mental_Disorders
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/Personality_disorder_not_otherwise_specified
+Management of dyslexia:
+	https://en.wikipedia.org/wiki/Learning_to_read
+	https://en.wikipedia.org/wiki/Disorder_of_written_expression
+	https://en.wikipedia.org/wiki/Wayback_Machine
+	https://en.wikipedia.org/wiki/Homeopathy
+	https://en.wikipedia.org/wiki/Overlearning
+International Statistical Classification of Diseases and Related Health Problems:
+	https://en.wikipedia.org/wiki/Etiology
+	https://en.wikipedia.org/wiki/Medical_terminology
+	https://en.wikipedia.org/wiki/Public_health_informatics
+	https://en.wikipedia.org/wiki/Health_information_management
+	https://en.wikipedia.org/wiki/Jacques_Bertillon
+Stuttering:
+	https://en.wikipedia.org/wiki/Allostatic_load
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Moses
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/International_Stuttering_Association
+Pragmatic language impairment:
+	https://en.wikipedia.org/wiki/Controversies_in_autism
+	https://en.wikipedia.org/wiki/PDD_not_otherwise_specified
+	https://en.wikipedia.org/wiki/Chelation_therapy
+	https://en.wikipedia.org/wiki/Hyperlexia
+	https://en.wikipedia.org/wiki/Pervasive_developmental_disorder
+International Standard Book Number:
+	https://en.wikipedia.org/wiki/History_of_printing
+	https://en.wikipedia.org/wiki/International_Standard_Serial_Number
+	https://en.wikipedia.org/wiki/Universal_Coded_Character_Set
+	https://en.wikipedia.org/wiki/Literary_award
+	https://en.wikipedia.org/wiki/Knowledge_Discovery_Metamodel
+Expressive language disorder:
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/Speech_sound_disorder
+	https://en.wikipedia.org/wiki/PubMed_Identifier
+	https://en.wikipedia.org/wiki/Multisensory_integration
+	https://en.wikipedia.org/wiki/Traumatic_brain_injury
+Motor disorder:
+	https://en.wikipedia.org/wiki/Neurobioengineering
+	https://en.wikipedia.org/wiki/Clinical_neurophysiology
+	https://en.wikipedia.org/wiki/Neurophenomenology
+	https://en.wikipedia.org/wiki/Motor_system
+	https://en.wikipedia.org/wiki/Neuromorphology
+Speech sound disorder:
+	https://en.wikipedia.org/wiki/Auditory_processing_disorder
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Developmental_coordination_disorder
+	https://en.wikipedia.org/wiki/Speech_and_language_impairment
+	https://en.wikipedia.org/wiki/Auditory_processing_disorder
+Specific language impairment:
+	https://en.wikipedia.org/wiki/Heredity
+	https://en.wikipedia.org/wiki/Progressive_nonfluent_aphasia
+	https://en.wikipedia.org/wiki/Digital_object_identifier
+	https://en.wikipedia.org/wiki/International_Standard_Serial_Number
+	https://en.wikipedia.org/wiki/Digital_object_identifier
+Czech phonology:
+	https://en.wikipedia.org/wiki/Unicode
+	https://en.wikipedia.org/wiki/Historical_Chinese_phonology
+	https://en.wikipedia.org/wiki/Malay_phonology
+	https://en.wikipedia.org/wiki/Scottish_Gaelic_phonology
+	https://en.wikipedia.org/wiki/Old_Chinese_phonology
+Old English phonology:
+	https://en.wikipedia.org/wiki/Voiced_consonant
+	https://en.wikipedia.org/wiki/Beowulf
+	https://en.wikipedia.org/wiki/Phonological_history_of_English_vowels
+	https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels
+	https://en.wikipedia.org/wiki/North_American_English_regional_phonology
+Voiced retroflex stop:
+	https://en.wikipedia.org/wiki/Dental_consonant
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Voiceless_bilabial_fricative
+	https://en.wikipedia.org/wiki/IPA_Braille
+	https://en.wikipedia.org/wiki/Voiceless_labiodental_affricate
+Australian English phonology:
+	https://en.wikipedia.org/wiki/Postalveolar_consonant
+	https://en.wikipedia.org/wiki/Irish_phonology
+	https://en.wikipedia.org/wiki/Phonological_history_of_Scots
+	https://en.wikipedia.org/wiki/Afrikaans_phonology
+	https://en.wikipedia.org/wiki/Monophthong
+Stop consonant:
+	https://en.wikipedia.org/wiki/Continuant
+	https://en.wikipedia.org/wiki/Dnieper_River
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Glottalized_clicks
+	https://en.wikipedia.org/wiki/Extensions_to_the_International_Phonetic_Alphabet
+Japanese phonology:
+	https://en.wikipedia.org/wiki/Minimal_pair
+	https://en.wikipedia.org/wiki/Icelandic_phonology
+	https://en.wikipedia.org/wiki/Miyako_language
+	https://en.wikipedia.org/wiki/Okinawan_Japanese
+	https://en.wikipedia.org/wiki/Archiphoneme
+Kyrgyz phonology:
+	https://en.wikipedia.org/wiki/Open_vowel
+	https://en.wikipedia.org/wiki/Swedish_phonology
+	https://en.wikipedia.org/wiki/Hejazi_Arabic_phonology
+	https://en.wikipedia.org/wiki/Esperanto_phonology
+	https://en.wikipedia.org/wiki/Slovak_phonology
+Vowel length:
+	https://en.wikipedia.org/wiki/Laryngeal_theory
+	https://en.wikipedia.org/wiki/Gemination
+	https://en.wikipedia.org/wiki/Arabic_language
+	https://en.wikipedia.org/wiki/Devanagari
+	https://en.wikipedia.org/wiki/Kannada
+South African English phonology:
+	https://en.wikipedia.org/wiki/Close_back_rounded_vowel
+	https://en.wikipedia.org/wiki/Bulgarian_phonology
+	https://en.wikipedia.org/wiki/Japanese_phonology
+	https://en.wikipedia.org/wiki/Nepali_phonology
+	https://en.wikipedia.org/wiki/Open_central_unrounded_vowel
+Navajo phonology:
+	https://en.wikipedia.org/wiki/Dutch_phonology
+	https://en.wikipedia.org/wiki/Bernese_German_phonology
+	https://en.wikipedia.org/wiki/Alveolar_consonant
+	https://en.wikipedia.org/wiki/Vowel
+	https://en.wikipedia.org/wiki/Ottawa_phonology
+Latin alphabet:
+	https://en.wikipedia.org/wiki/Allography
+	https://en.wikipedia.org/wiki/Latin_script
+	https://en.wikipedia.org/wiki/Brahmic_family
+	https://en.wikipedia.org/wiki/Roman_numerals
+	https://en.wikipedia.org/wiki/South_Arabian_alphabet
+Content clause:
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Grammar
+	https://en.wikipedia.org/wiki/Adjective
+	https://en.wikipedia.org/wiki/Main_Page
+Yes and no:
+	https://en.wikipedia.org/wiki/Spanish_language
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/German_language
+	https://en.wikipedia.org/wiki/Vulgar_Latin
+	https://en.wikipedia.org/wiki/Horne_Tooke
+Quiz:
+	https://en.wikipedia.org/wiki/Pub_quiz
+	https://en.wikipedia.org/wiki/Reach_for_the_Top
+	https://en.wikipedia.org/wiki/Dandy
+	https://en.wikipedia.org/wiki/Pub_quiz
+	https://en.wikipedia.org/wiki/Mathematical_exercise
+Interrogative word:
+	https://en.wikipedia.org/wiki/Noun_particle
+	https://en.wikipedia.org/wiki/Irregular_verb
+	https://en.wikipedia.org/wiki/Subject_pronoun
+	https://en.wikipedia.org/wiki/Adverbial_clause
+	https://en.wikipedia.org/wiki/English_orthography
+Syllable:
+	https://en.wikipedia.org/wiki/Maltese_language
+	https://en.wikipedia.org/wiki/Pinyin
+	https://en.wikipedia.org/wiki/Syllabic_fricative
+	https://en.wikipedia.org/wiki/Hebrew_language
+	https://en.wikipedia.org/wiki/Hawaiian_language
+Routledge:
+	https://en.wikipedia.org/wiki/Tauchnitz
+	https://en.wikipedia.org/wiki/Humanities
+	https://en.wikipedia.org/wiki/Charles_Kegan_Paul
+	https://en.wikipedia.org/wiki/Bertrand_Russell
+	https://en.wikipedia.org/wiki/Humanities
+Uyghur phonology:
+	https://en.wikipedia.org/wiki/Bulgarian_phonology
+	https://en.wikipedia.org/wiki/Odia_phonology
+	https://en.wikipedia.org/wiki/Romanian_phonology
+	https://en.wikipedia.org/wiki/Old_English_phonology
+	https://en.wikipedia.org/wiki/Latvian_phonology
+Lists of languages:
+	https://en.wikipedia.org/wiki/List_of_countries_where_Romanian_is_an_official_language
+	https://en.wikipedia.org/wiki/Language_families
+	https://en.wikipedia.org/wiki/Languages_of_North_America
+	https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts
+	https://en.wikipedia.org/wiki/List_of_languages_without_official_status
+Middle English phonology:
+	https://en.wikipedia.org/wiki/Diphthong
+	https://en.wikipedia.org/wiki/Old_English
+	https://en.wikipedia.org/wiki/Bulgarian_phonology
+	https://en.wikipedia.org/wiki/Early_Modern_English
+	https://en.wikipedia.org/wiki/Old_English
+Obsolete and nonstandard symbols in the International Phonetic Alphabet:
+	https://en.wikipedia.org/wiki/Mid_front_rounded_vowel
+	https://en.wikipedia.org/wiki/Linguolabial_nasal
+	https://en.wikipedia.org/wiki/Standard_Chinese_phonology
+	https://en.wikipedia.org/wiki/Voiced_velar_approximant
+	https://en.wikipedia.org/wiki/Stop_consonant
+Serbian Cyrillic alphabet:
+	https://en.wikipedia.org/wiki/LibreOffice
+	https://en.wikipedia.org/wiki/Glagolitic_alphabet
+	https://en.wikipedia.org/wiki/Palatal_lateral_approximant
+	https://en.wikipedia.org/wiki/Mozilla_Firefox
+	https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+Digital object identifier:
+	https://en.wikipedia.org/wiki/Linux_Standard_Base
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/International_Standard_Audiovisual_Number
+	https://en.wikipedia.org/wiki/Permalink
+	https://en.wikipedia.org/wiki/Knowledge_Discovery_Metamodel
+Faroese language:
+	https://en.wikipedia.org/wiki/Linguasphere_Observatory
+	https://en.wikipedia.org/wiki/Eastphalian_dialect
+	https://en.wikipedia.org/wiki/Rhine_Franconian_dialects
+	https://en.wikipedia.org/wiki/Lombardic_language
+	https://en.wikipedia.org/wiki/Upper_German
+Kirshenbaum:
+	https://en.wikipedia.org/wiki/Mid_vowel
+	https://en.wikipedia.org/wiki/Alveolar_lateral_nasal_click
+	https://en.wikipedia.org/wiki/Epiglottal_stop
+	https://en.wikipedia.org/wiki/Voice_Quality_Symbols
+	https://en.wikipedia.org/wiki/World_Orthography
+Cameroon national football team:
+	https://en.wikipedia.org/wiki/Jules_Nyongha
+	https://en.wikipedia.org/wiki/Japan_national_football_team
+	https://en.wikipedia.org/wiki/Marc_Mboua
+	https://en.wikipedia.org/wiki/England_national_football_team
+	https://en.wikipedia.org/wiki/John_Obi_Mikel
+Niger national football team:
+	https://en.wikipedia.org/wiki/Cape_Coast
+	https://en.wikipedia.org/wiki/Togo_national_football_team
+	https://en.wikipedia.org/wiki/Gabon
+	https://en.wikipedia.org/wiki/South_American_Youth_Football_Championship
+	https://en.wikipedia.org/wiki/Mexico
+COSAFA Cup:
+	https://en.wikipedia.org/wiki/National_Football_Association_of_Swaziland
+	https://en.wikipedia.org/wiki/Asian_Football_Confederation
+	https://en.wikipedia.org/wiki/Siza_Dlamini
+	https://en.wikipedia.org/wiki/Swaziland
+	https://en.wikipedia.org/wiki/Mozambique_national_football_team
+Beach soccer at the Asian Beach Games:
+	https://en.wikipedia.org/wiki/Asian_Football_Confederation
+	https://en.wikipedia.org/wiki/China
+	https://en.wikipedia.org/wiki/Beach_Soccer_Intercontinental_Cup
+	https://en.wikipedia.org/wiki/Confederation_of_African_Football
+	https://en.wikipedia.org/wiki/BSWW_Beach_Soccer_rankings
+Brazil:
+	https://en.wikipedia.org/wiki/Indigenous_peoples_in_Brazil
+	https://en.wikipedia.org/wiki/Recreation
+	https://en.wikipedia.org/wiki/Abstract_art
+	https://en.wikipedia.org/wiki/Federal_District
+	https://en.wikipedia.org/wiki/Muttrah
+Venda language:
+	https://en.wikipedia.org/wiki/Bulu_language
+	https://en.wikipedia.org/wiki/Havu_language
+	https://en.wikipedia.org/wiki/Mwele_language
+	https://en.wikipedia.org/wiki/Tambo_language
+	https://en.wikipedia.org/wiki/Shi_language
+List of dialects of the English language:
+	https://en.wikipedia.org/wiki/Army_creole
+	https://en.wikipedia.org/wiki/California_English
+	https://en.wikipedia.org/wiki/Wood_Frisian
+	https://en.wikipedia.org/wiki/Hutterite_German
+	https://en.wikipedia.org/wiki/English_of_Northumbria
+Sesotho language:
+	https://en.wikipedia.org/wiki/Hebrew_language
+	https://en.wikipedia.org/wiki/Sengele_language
+	https://en.wikipedia.org/wiki/Sotho_orthography
+	https://en.wikipedia.org/wiki/Xaayo_language
+	https://en.wikipedia.org/wiki/Kwisi_language
+Multicultural London English:
+	https://en.wikipedia.org/wiki/Guyanese_in_the_United_Kingdom
+	https://en.wikipedia.org/wiki/Ali_G
+	https://en.wikipedia.org/wiki/Eastern_New_England_English
+	https://en.wikipedia.org/wiki/Guyanese_in_the_United_Kingdom
+	https://en.wikipedia.org/wiki/Myanmar_English
+Languages of Zambia:
+	https://en.wikipedia.org/wiki/Languages_of_Ghana
+	https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands
+	https://en.wikipedia.org/wiki/Languages_of_Cameroon
+	https://en.wikipedia.org/wiki/Received_Pronunciation
+	https://en.wikipedia.org/wiki/New_Orleans_English
+County of Holland:
+	https://en.wikipedia.org/wiki/North_Brabant
+	https://en.wikipedia.org/wiki/Egmond_Abbey
+	https://en.wikipedia.org/wiki/Habsburg_Netherlands
+	https://en.wikipedia.org/wiki/County_of_Flanders
+	https://en.wikipedia.org/wiki/Friesland
+Luxembourgish:
+	https://en.wikipedia.org/wiki/Erzgebirgisch
+	https://en.wikipedia.org/wiki/Main_Page
+	https://en.wikipedia.org/wiki/Faroese_language
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+	https://en.wikipedia.org/wiki/Crimean_Gothic
+Languages of the Netherlands:
+	https://en.wikipedia.org/wiki/Central_Franconian_dialects
+	https://en.wikipedia.org/wiki/Dutch_language
+	https://en.wikipedia.org/wiki/Languages_of_Bulgaria
+	https://en.wikipedia.org/wiki/Achterhooks_dialect
+	https://en.wikipedia.org/wiki/Politics_of_the_Netherlands
+Hollandic dialect:
+	https://en.wikipedia.org/wiki/South_Guelderish
+	https://en.wikipedia.org/wiki/County_of_Holland
+	https://en.wikipedia.org/wiki/Ripuarian_language
+	https://en.wikipedia.org/wiki/Ripuarian_language
+	https://en.wikipedia.org/wiki/Frankish_language
+West Frisian language:
+	https://en.wikipedia.org/wiki/Eastphalian_dialect
+	https://en.wikipedia.org/wiki/Low_Franconian_languages
+	https://en.wikipedia.org/wiki/Friesland
+	https://en.wikipedia.org/wiki/Hamburgisch
+	https://en.wikipedia.org/wiki/International_Standard_Book_Number
+Mbunga language:
+	https://en.wikipedia.org/wiki/Gungu_language
+	https://en.wikipedia.org/wiki/Temba_language
+	https://en.wikipedia.org/wiki/Fipa_language
+	https://en.wikipedia.org/wiki/Tswana_language
+	https://en.wikipedia.org/wiki/Mongo_language
+Zinza language:
+	https://en.wikipedia.org/wiki/Mwenyi_language
+	https://en.wikipedia.org/wiki/Nilamba_language
+	https://en.wikipedia.org/wiki/Saraka_language
+	https://en.wikipedia.org/wiki/Koria_language
+	https://en.wikipedia.org/wiki/Makonde_language
+Kongo languages:
+	https://en.wikipedia.org/wiki/Dengese_language
+	https://en.wikipedia.org/wiki/Shiwe_language
+	https://en.wikipedia.org/wiki/Nande_language
+	https://en.wikipedia.org/wiki/Ibhili_language
+	https://en.wikipedia.org/wiki/Gusii_language
+Mahongwe language:
+	https://en.wikipedia.org/wiki/Shi_language
+	https://en.wikipedia.org/wiki/Yela_language
+	https://en.wikipedia.org/wiki/Londo_language
+	https://en.wikipedia.org/wiki/Bomboli_language
+	https://en.wikipedia.org/wiki/Bala_language
+Pende language:
+	https://en.wikipedia.org/wiki/Ding_language
+	https://en.wikipedia.org/wiki/Himba_language
+	https://en.wikipedia.org/wiki/Marachi_language
+	https://en.wikipedia.org/wiki/Lenje_language
+	https://en.wikipedia.org/wiki/Losengo_language
+Prosodic unit:
+	https://en.wikipedia.org/wiki/Pitch_contour
+	https://en.wikipedia.org/wiki/Phonological_hierarchy
+	https://en.wikipedia.org/wiki/Vowel_reduction
+	https://en.wikipedia.org/wiki/Phrase
+	https://en.wikipedia.org/wiki/Tone_letter
+Gemination:
+	https://en.wikipedia.org/wiki/Glottal_stop
+	https://en.wikipedia.org/wiki/Ambiguity
+	https://en.wikipedia.org/wiki/Plural
+	https://en.wikipedia.org/wiki/Romance_languages
+	https://en.wikipedia.org/wiki/Glottal_stop
+Phonology:
+	https://en.wikipedia.org/wiki/Danish_phonology
+	https://en.wikipedia.org/wiki/Sound
+	https://en.wikipedia.org/wiki/Phonology
+	https://en.wikipedia.org/wiki/Konkani_phonology
+	https://en.wikipedia.org/wiki/Cognitive_linguistics
+International Phonetic Alphabet:
+	https://en.wikipedia.org/wiki/Vowel_height
+	https://en.wikipedia.org/wiki/Stop_consonant
+	https://en.wikipedia.org/wiki/Gentium
+	https://en.wikipedia.org/wiki/Fraktur
+	https://en.wikipedia.org/wiki/Voiceless_palatal_affricate
+Suprasegmentals:
+	https://en.wikipedia.org/wiki/Juncture
+	https://en.wikipedia.org/wiki/Suprasegmentals
+	https://en.wikipedia.org/wiki/Suprasegmentals
+	https://en.wikipedia.org/wiki/Secondary_stress
+	https://en.wikipedia.org/wiki/Gemination
